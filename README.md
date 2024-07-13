@@ -21,39 +21,7 @@
   </li>
   <li>I aspire to become a Machine Learning Engineer who makes an active contribution to the world.</li>
 </ul>
-
-<h2 align="left">Projects</h2>
-
-<ul align="left" style="list-style-type: circle;">
-          <li>
-    <strong>Crystal Clear</strong>
-    <p> A learning platform primarily for dyslexic students.
-            <ul style="list-style-type: disc;">
-        <li>Synchronized Hand landmark and face landmark models by mediapipe and the speech recognition model by Tensorflow.</li>
-        <li>Used React for the frontend application with Sanity as the content management system.</li>
-        <li>Hosted on Microsoft Azure.</li>
-      </ul>
-  </p>
-  </li>
-      <li>    <strong>Predicitive Maintenance Application for an Andon System</strong>
-    <p> A Web application for maintenance monitoring.
-            <ul style="list-style-type: disc;">
-        <li>Developed a manager console with an ESP32 </li>
-              <li>Developed the full stack web-application as a MERN stack (MongoDB,Express,React and Node).</li>
-        <li>Used websockets for real time communication between the console and the backend.</li>
-        <li>Developed a maintenance prediction machine learning model.</li>
-      </ul>
-  </p></li>
-      <li>  <strong>AgriHome</strong>
-    <p> A gardening platform which includes a marketplace,personal posts and information .
-            <ul style="list-style-type: disc;">
-        <li>Developed the mobile app with Flutter.</li>
-      </ul>
-  </p></li>
-</ul>
-
-
-###
+ 
 
 <h2 align="left">Familiar Languages and Frameworks</h2>
 
@@ -87,3 +55,35 @@
 </div>
 
 ###
+
+<h2 align="left">Projects</h2>
+
+<ul align="left" style="list-style-type: circle;">
+          <li>
+    <strong>Crystal Clear</strong>
+    <p> A learning platform primarily for dyslexic students.
+            <ul style="list-style-type: disc;">
+        <li>Synchronized Hand landmark and face landmark models by mediapipe and the speech recognition model by Tensorflow.</li>
+        <li>Used React for the frontend application with Sanity as the content management system.</li>
+        <li>Hosted on Microsoft Azure.</li>
+      </ul>
+  </p>
+  </li>
+      <li>    <strong>Predicitive Maintenance Application for an Andon System</strong>
+    <p> A Web application for maintenance monitoring.
+            <ul style="list-style-type: disc;">
+        <li>Developed a manager console with an ESP32 </li>
+              <li>Developed the full stack web-application as a MERN stack (MongoDB,Express,React and Node).</li>
+        <li>Used websockets for real time communication between the console and the backend.</li>
+        <li>Developed a maintenance prediction machine learning model.</li>
+      </ul>
+  </p></li>
+      <li>  <strong>AgriHome</strong>
+    <p> A gardening platform which includes a marketplace,personal posts and information .
+            <ul style="list-style-type: disc;">
+        <li>Developed the mobile app with Flutter.</li>
+      </ul>
+  </p></li>
+</ul>
+
+
