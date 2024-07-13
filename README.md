@@ -23,7 +23,7 @@
 </ul>
  
 
-<h2 align="left">Familiar Languages and Frameworks</h2>
+<h2 align="left">Familiar Languages,Frameworks and Libraries</h2>
 
 ###
 
