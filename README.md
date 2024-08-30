@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 <ul align="left" style="list-style-type: circle;">
-  <li>I am interested in Embedded Machine Learning.</li>
+  <li>I am interested in Machine Learning,Image Processing and Natural Language Processing.</li>
   <li>
     I am currently learning:
     <ul style="list-style-type: circle;">
