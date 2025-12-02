@@ -19,7 +19,7 @@
       <li>Processor Design</li>
     </ul>
   </li>
-  <li>I aspire to become a Machine Learning Engineer who makes an active contribution to the world.</li>
+  <li>I aspire to become a Deep Learning Engineer who makes an active contribution to the world.</li>
 </ul>
  
 
